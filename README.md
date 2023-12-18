@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PremPardeshi
 - 👀 I’m interested in Software devlopment
-- 🌱 I’m currently doing training program at zCon Solutions 
+- 🌱 I have 1 year of experience as a software developer at zCon Solutions 
 - 📫 Contact me on prempardeshi74@gmail.com
 
 <!---
